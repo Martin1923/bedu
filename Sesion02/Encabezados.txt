@@ -1,0 +1,1 @@
+edad,empleado,ingreso,titulo,experiencia,estadocivil,religion,estadoactual,color,sexo,ganado,perdido,horastrabajo,origen
